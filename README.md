@@ -1,4 +1,4 @@
-# 🚕 NYC Taxi ETL Pipeline
+# NYC Taxi ETL Pipeline
 
 Pipeline ETL para processar o dataset público NYC Yellow Taxi (Jan/2015)
 do Kaggle. Projeto desenvolvido no contexto do **Dados por Todos**, com
